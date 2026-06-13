@@ -66,4 +66,4 @@ Asegúrate de que Steam esté abierto y que hayas iniciado sesión en tu cuenta.
 
 ---
 
-*Desarrollado con ❤️ por y_alucard.*
+*Desarrollado por y_alucard.*
