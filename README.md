@@ -17,7 +17,7 @@ Para que el programa funcione correctamente, el usuario debe cumplir con los sig
 Sigue estos sencillos pasos para usar la herramienta:
 
 1. **Cierra el juego por completo** antes de abrir el reseteador de tickets.
-2. **Ejecuta el archivo ejecutable (`SAS4TicketReseter.exe`)**.
+2. **Ejecuta el archivo ejecutable (`SAS4TicketReset.exe`)**.
    * *Nota: Si es la primera vez que lo usas, el programa te solicitará seleccionar tu cuenta de Steam activa y tu personaje principal en una ventana de diálogo.*
 3. Una vez dentro de la interfaz principal:
    * Podrás ver los datos del **Personaje Activo** (Nombre, Clase, Nivel, SAS Cash).
@@ -43,12 +43,6 @@ Si acabas de terminar una partida en el juego y deseas ver tus estadísticas má
 >
 > *Por seguridad, el programa cuenta con un bloqueador integrado que no te permitirá aplicar el reseteo si detecta que el juego está abierto.*
 
-> [!TIP]
-> **2. Haz copias de seguridad de tus datos**
-> Aunque el programa es sumamente estable, las partidas guardadas de SAS 4 a veces pueden corromperse por fallos del propio juego o de la sincronización de Steam Cloud. Siempre es recomendable realizar una copia de seguridad local.
->
-> Las copias manuales se encuentran en:
-> `C:\Archivos de programa (x86)\Steam\userdata\{Tu_ID_Steam}\678800\local\Data\Docs\Profile.save`
 
 > [!WARNING]
 > **3. Ejecutar como Administrador**
@@ -57,9 +51,6 @@ Si acabas de terminar una partida en el juego y deseas ver tus estadísticas má
 ---
 
 ## 🛠️ Resolución de Problemas (FAQ)
-
-### ❓ El programa se cierra solo al abrirlo
-Revisa si se ha creado un archivo llamado `ticket_reseter_crash.txt` en la misma carpeta. Este archivo contiene los detalles del error técnico. Los problemas más comunes suelen ser por falta de permisos o archivos corruptos de Steam.
 
 ### ❓ Presiono "Reintentar detección" y no pasa nada
 Asegúrate de que Steam esté abierto y que hayas iniciado sesión en tu cuenta. Una vez que hayas iniciado sesión de forma normal, haz clic en **Reintentar detección** y el programa detectará automáticamente tu perfil de guardado.
