@@ -1,6 +1,6 @@
 # ⚡ SAS 4 - Black Ticket Reset
 
-Un práctico programa gráfico diseñado en Python (utilizando CustomTkinter) para restablecer de manera segura el tiempo de espera (*cooldown*) de los tickets de partidas en modo **Nightmare / Black** de **SAS: Zombie Assault 4** (Versión de Steam).
+Un práctico programa diseñado para restablecer de manera segura el tiempo de espera (*cooldown*) de los tickets de partidas en modo **Nightmare / Black** de **SAS: Zombie Assault 4** (Versión de Steam).
 
 ---
 
